@@ -1,9 +1,16 @@
 @extends('layout')
 @section('isi')
 <body>
+  
       <div class="row">
         <div class="col-md-12">
+          <a class="btn btn-outline-primary"  href="/tambahnasabah"> + Tambah data nasabah</a>
+          <a class="btn btn-outline-primary"  href="/tambahtransaksi"> + Tambah data transaksi </a>
+          <a class="btn btn-outline-primary"  href="/liatpoint"> liat point </a>
+          <br>
+          
           <div class="card">
+          
             <div class="card-header">
               <h5 class="card-title">Add new nasabah</h5>
               <div class="card-tools">

@@ -1,4 +1,8 @@
 
+<a class="btn btn-outline-primary"  href="/tambahnasabah"> + Tambah data nasabah</a>
+<a class="btn btn-outline-primary"  href="/tambahtransaksi"> + Tambah data transaksi </a>
+<a class="btn btn-outline-primary"  href="/liatpoint"> liat point </a>
+<br>
 
 	 <h1>Search Results</h1>
 
